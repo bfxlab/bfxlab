@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👾 bfxlab: comendo commits desde 2025</h1>
+  <h1>👾 comendo commits desde 2025</h1>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bfxlab/bfxlab/output/pacman-contribution-graph-dark.svg">
