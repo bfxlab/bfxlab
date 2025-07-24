@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**bfxlab/bfxlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div align="center">
   <h1>👾 bfxlab: comendo commits desde 2025</h1>
 
@@ -15,4 +10,3 @@
   <br><br>
   <sub>Gerado automaticamente por <a href="https://github.com/abozanona/pacman-contribution-graph" target="_blank">abozanona/pacman-contribution-graph</a></sub>
 </div>
-
