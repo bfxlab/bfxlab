@@ -8,5 +8,5 @@
   </picture>
 
   <br><br>
-  <sub>Gerado automaticamente por <a href="https://github.com/abozanona/pacman-contribution-graph" target="_blank">abozanona/pacman-contribution-graph</a></sub>
+  
 </div>
